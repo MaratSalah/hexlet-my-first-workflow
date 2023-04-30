@@ -1,0 +1,1 @@
+![example event parameter](https://github.com/MaratSalah/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg?event=push)
